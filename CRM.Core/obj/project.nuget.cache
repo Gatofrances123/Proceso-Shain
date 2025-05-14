@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "G5bjovWCokA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juanp\\OneDrive\\Desktop\\CRUD_jp\\CRM.Core\\CRM.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juanp\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.15\\microsoft.dotnet.ilcompiler.8.0.15.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.15\\microsoft.net.illink.tasks.8.0.15.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.15\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
